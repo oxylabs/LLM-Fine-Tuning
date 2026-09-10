@@ -1,0 +1,10 @@
+# Scraping
+requests>=2.32
+python-dotenv>=1.0
+
+# Training and testing
+torch>=2.6
+transformers>=5.15,<5.16
+datasets>=4.0
+peft>=0.17
+accelerate>=1.0

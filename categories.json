@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "appliances",
+    "name": "Appliances",
+    "children": [
+      {
+        "id": "3741261",
+        "name": "Cooktops",
+        "children": []
+      },
+      {
+        "id": "3741271",
+        "name": "Dishwashers",
+        "children": []
+      },
+      {
+        "id": "3741331",
+        "name": "Freezers",
+        "children": []
+      },
+      {
+        "id": "2399939011",
+        "name": "Ice Makers",
+        "children": []
+      },
+      {
+        "id": "3741441",
+        "name": "Range Hoods",
+        "children": []
+      },
+      {
+        "id": "3741411",
+        "name": "Ranges",
+        "children": []
+      },
+      {
+        "id": "17921061011",
+        "name": "Refrigerators, Freezers & Ice Cube Makers",
+        "children": []
+      },
+      {
+        "id": "3741481",
+        "name": "Wall Ovens",
+        "children": []
+      },
+      {
+        "id": "2399955011",
+        "name": "Warming Drawers",
+        "children": []
+      },
+      {
+        "id": "2383576011",
+        "name": "Washers & Dryers",
+        "children": []
+      },
+      {
+        "id": "3741521",
+        "name": "Wine Cellars",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "arts-crafts",
+    "name": "Arts, Crafts & Sewing",
+    "children": [
+      {
+        "id": "12896081",
+        "name": "Beading & Jewelry Making",
+        "children": []
+      },
+      {
+        "id": "378733011",
+        "name": "Craft Supplies",
+        "children": []
+      },
+      {
+        "id": "12899121",
+        "name": "Fabric",
+        "children": []
+      },
+      {
+        "id": "12896841",
+        "name": "Fabric Painting & Dyeing",
+        "children": []
+      },
+      {
+        "id": "12897221",
+        "name": "Knitting & Crochet",
+        "children": []
+      },
+      {
+        "id": "2237329011",
+        "name": "Needlework",
+        "children": []
+      },
+      {
+        "id": "2237594011",
+        "name": "Organization & Storage",
+        "children": []
+      },
+      {
+        "id": "2747968011",
+        "name": "Painting, Drawing & Art Supplies",
+        "children": []
+      },
+      {
+        "id": "12898411",
+        "name": "Photo Transfer & Coloring Supplies",
+        "children": []
+      },
+      {
+        "id": "12898451",
+        "name": "Printmaking",
+        "children": []
+      },
+      {
+        "id": "12898821",
+        "name": "Scrapbooking",
+        "children": []
+      },
+      {
+        "id": "12899091",
+        "name": "Sewing",
+        "children": []
+      },
+      {
+        "id": "12897331",
+        "name": "Thread & Floss",
+        "children": []
+      },
+      {
+        "id": "262625011",
+        "name": "Yarn",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "automotive",
+    "name": "Automotive",
+    "children": [
+      {
+        "id": "15718271",
+        "name": "Car Care",
+        "children": []
+      },
+      {
+        "id": "15857511",
+        "name": "Exterior Accessories",
+        "children": []
+      },
+      {
+        "id": "15857501",
+        "name": "Interior Accessories",
+        "children": []
+      },
+      {
+        "id": "15736321",
+        "name": "Light & Lighting Accessories",
+        "children": []
+      },
+      {
+        "id": "346333011",
+        "name": "Motorcycle & ATV",
+        "children": []
+      },
+      {
+        "id": "15718791",
+        "name": "Oils & Fluids",
+        "children": []
+      },
+      {
+        "id": "13591416011",
+        "name": "Paint & Paint Supplies",
+        "children": []
+      },
+      {
+        "id": "15710351",
+        "name": "Performance Parts & Accessories",
+        "children": []
+      },
+      {
+        "id": "2258019011",
+        "name": "RV Parts & Accessories",
+        "children": []
+      },
+      {
+        "id": "15719731",
+        "name": "Replacement Parts",
+        "children": []
+      },
+      {
+        "id": "15706941",
+        "name": "Tools & Equipment",
+        "children": []
+      },
+      {
+        "id": "15706571",
+        "name": "Wheels & Tires",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "photo",
+    "name": "Camera & Photo Products",
+    "children": [
+      {
+        "id": "172435",
+        "name": "Accessories",
+        "children": []
+      },
+      {
+        "id": "172437",
+        "name": "Bags & Cases",
+        "children": []
+      },
+      {
+        "id": "499320",
+        "name": "Binoculars & Scopes",
+        "children": []
+      },
+      {
+        "id": "172421",
+        "name": "Camcorders",
+        "children": []
+      },
+      {
+        "id": "3017941",
+        "name": "DSLR Cameras",
+        "children": []
+      },
+      {
+        "id": "525460",
+        "name": "Digital Picture Frames",
+        "children": []
+      },
+      {
+        "id": "499248",
+        "name": "Lenses",
+        "children": []
+      },
+      {
+        "id": "330405011",
+        "name": "Point & Shoot Digital Cameras",
+        "children": []
+      },
+      {
+        "id": "898400",
+        "name": "Surveillance Cameras",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "fashion",
+    "name": "Clothing, Shoes & Jewelry",
+    "children": [
+      {
+        "id": "7147444011",
+        "name": "Baby",
+        "children": []
+      },
+      {
+        "id": "7147443011",
+        "name": "Boys",
+        "children": []
+      },
+      {
+        "id": "7586165011",
+        "name": "Costumes & Accessories",
+        "children": []
+      },
+      {
+        "id": "7147442011",
+        "name": "Girls",
+        "children": []
+      },
+      {
+        "id": "9479199011",
+        "name": "Luggage & Travel Gear",
+        "children": []
+      },
+      {
+        "id": "7147441011",
+        "name": "Men",
+        "children": []
+      },
+      {
+        "id": "7147445011",
+        "name": "Novelty & More",
+        "children": []
+      },
+      {
+        "id": "7586146011",
+        "name": "Shoe, Jewelry & Watch Accessories",
+        "children": []
+      },
+      {
+        "id": "23575629011",
+        "name": "Sport Specific Clothing",
+        "children": []
+      },
+      {
+        "id": "7586144011",
+        "name": "Uniforms, Work & Safety",
+        "children": []
+      },
+      {
+        "id": "7147440011",
+        "name": "Women",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "pc",
+    "name": "Computers & Accessories",
+    "children": [
+      {
+        "id": "172456",
+        "name": "Computer Accessories & Peripherals",
+        "children": []
+      },
+      {
+        "id": "193870011",
+        "name": "Computer Components",
+        "children": []
+      },
+      {
+        "id": "1292110011",
+        "name": "Data Storage",
+        "children": []
+      },
+      {
+        "id": "565098",
+        "name": "Desktops",
+        "children": []
+      },
+      {
+        "id": "3012292011",
+        "name": "External Components",
+        "children": []
+      },
+      {
+        "id": "3011391011",
+        "name": "Laptop Accessories",
+        "children": []
+      },
+      {
+        "id": "565108",
+        "name": "Laptops",
+        "children": []
+      },
+      {
+        "id": "1292115011",
+        "name": "Monitors",
+        "children": []
+      },
+      {
+        "id": "172504",
+        "name": "Networking Products",
+        "children": []
+      },
+      {
+        "id": "172635",
+        "name": "Printers",
+        "children": []
+      },
+      {
+        "id": "300189",
+        "name": "Routers",
+        "children": []
+      },
+      {
+        "id": "172584",
+        "name": "Scanners",
+        "children": []
+      },
+      {
+        "id": "11036071",
+        "name": "Servers",
+        "children": []
+      },
+      {
+        "id": "2348628011",
+        "name": "Tablet Accessories",
+        "children": []
+      },
+      {
+        "id": "1232597011",
+        "name": "Tablets",
+        "children": []
+      },
+      {
+        "id": "16285851",
+        "name": "Warranties & Services",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "children": [
+      {
+        "id": "281407",
+        "name": "Accessories & Supplies",
+        "children": []
+      },
+      {
+        "id": "502394",
+        "name": "Camera & Photo",
+        "children": []
+      },
+      {
+        "id": "1077068",
+        "name": "Car Electronics",
+        "children": []
+      },
+      {
+        "id": "2811119011",
+        "name": "Cell Phones & Accessories",
+        "children": []
+      },
+      {
+        "id": "541966",
+        "name": "Computers & Accessories",
+        "children": []
+      },
+      {
+        "id": "172526",
+        "name": "GPS & Navigation",
+        "children": []
+      },
+      {
+        "id": "172541",
+        "name": "Headphones",
+        "children": []
+      },
+      {
+        "id": "667846011",
+        "name": "Home Audio & Theater",
+        "children": []
+      },
+      {
+        "id": "319574011",
+        "name": "Marine Electronics",
+        "children": []
+      },
+      {
+        "id": "172574",
+        "name": "Office Electronics",
+        "children": []
+      },
+      {
+        "id": "172623",
+        "name": "Portable Audio & Video",
+        "children": []
+      },
+      {
+        "id": "524136",
+        "name": "Security & Surveillance",
+        "children": []
+      },
+      {
+        "id": "16285901",
+        "name": "Service & Replacement Plans",
+        "children": []
+      },
+      {
+        "id": "1266092011",
+        "name": "Televisions & Video",
+        "children": []
+      },
+      {
+        "id": "7926841011",
+        "name": "Video Game Consoles & Accessories",
+        "children": []
+      },
+      {
+        "id": "300334",
+        "name": "Video Projectors",
+        "children": []
+      },
+      {
+        "id": "10048700011",
+        "name": "Wearable Technology",
+        "children": []
+      },
+      {
+        "id": "2642125011",
+        "name": "eBook Readers & Accessories",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "grocery",
+    "name": "Grocery & Gourmet Food",
+    "children": [
+      {
+        "id": "2983371011",
+        "name": "Alcoholic Beverages",
+        "children": []
+      },
+      {
+        "id": "16323111",
+        "name": "Baby Foods",
+        "children": []
+      },
+      {
+        "id": "16310231",
+        "name": "Beverages",
+        "children": []
+      },
+      {
+        "id": "16318751",
+        "name": "Breads & Bakery",
+        "children": []
+      },
+      {
+        "id": "118518014011",
+        "name": "Breakfast Cereal",
+        "children": []
+      },
+      {
+        "id": "16310251",
+        "name": "Breakfast Foods",
+        "children": []
+      },
+      {
+        "id": "371460011",
+        "name": "Dairy, Eggs & Plant-Based Alternatives",
+        "children": []
+      },
+      {
+        "id": "18773724011",
+        "name": "Deli & Prepared Foods",
+        "children": []
+      },
+      {
+        "id": "2255571011",
+        "name": "Food & Beverage Gifts",
+        "children": []
+      },
+      {
+        "id": "3745171",
+        "name": "Fresh Flowers & Live Indoor Plants",
+        "children": []
+      },
+      {
+        "id": "15709227011",
+        "name": "Fresh Meal Kits",
+        "children": []
+      },
+      {
+        "id": "6459122011",
+        "name": "Frozen",
+        "children": []
+      },
+      {
+        "id": "979861011",
+        "name": "Home Brewing & Winemaking",
+        "children": []
+      },
+      {
+        "id": "371469011",
+        "name": "Meat & Seafood",
+        "children": []
+      },
+      {
+        "id": "6518859011",
+        "name": "Meat Substitutes",
+        "children": []
+      },
+      {
+        "id": "18787303011",
+        "name": "Pantry Staples",
+        "children": []
+      },
+      {
+        "id": "6506977011",
+        "name": "Produce",
+        "children": []
+      },
+      {
+        "id": "23759921011",
+        "name": "Snacks & Sweets",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "home-garden",
+    "name": "Home & Kitchen",
+    "children": [
+      {
+        "id": "1063236",
+        "name": "Bath",
+        "children": []
+      },
+      {
+        "id": "1063252",
+        "name": "Bedding",
+        "children": []
+      },
+      {
+        "id": "10802561",
+        "name": "Cleaning Supplies",
+        "children": []
+      },
+      {
+        "id": "1063306",
+        "name": "Furniture",
+        "children": []
+      },
+      {
+        "id": "3206324011",
+        "name": "Heating, Cooling & Air Quality",
+        "children": []
+      },
+      {
+        "id": "1063278",
+        "name": "Home Décor",
+        "children": []
+      },
+      {
+        "id": "510240",
+        "name": "Irons & Steamers",
+        "children": []
+      },
+      {
+        "id": "3206325011",
+        "name": "Kids' Home Store",
+        "children": []
+      },
+      {
+        "id": "284507",
+        "name": "Kitchen & Dining",
+        "children": []
+      },
+      {
+        "id": "901590",
+        "name": "Party Supplies",
+        "children": []
+      },
+      {
+        "id": "13679381",
+        "name": "Seasonal Décor",
+        "children": []
+      },
+      {
+        "id": "3610841",
+        "name": "Storage & Organization",
+        "children": []
+      },
+      {
+        "id": "510106",
+        "name": "Vacuums & Floor Care",
+        "children": []
+      },
+      {
+        "id": "3736081",
+        "name": "Wall Décor",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen & Dining",
+    "children": [
+      {
+        "id": "289668",
+        "name": "Bakeware",
+        "children": []
+      },
+      {
+        "id": "289728",
+        "name": "Bar Tools & Drinkware",
+        "children": []
+      },
+      {
+        "id": "289742",
+        "name": "Coffee, Tea & Espresso Appliances",
+        "children": []
+      },
+      {
+        "id": "289814",
+        "name": "Cookware",
+        "children": []
+      },
+      {
+        "id": "13162311",
+        "name": "Dining & Entertaining",
+        "children": []
+      },
+      {
+        "id": "13217501",
+        "name": "Glassware & Drinkware",
+        "children": []
+      },
+      {
+        "id": "979832011",
+        "name": "Home Brewing & Wine Making",
+        "children": []
+      },
+      {
+        "id": "1063916",
+        "name": "Kitchen & Table Linens",
+        "children": []
+      },
+      {
+        "id": "289754",
+        "name": "Kitchen Utensils & Gadgets",
+        "children": []
+      },
+      {
+        "id": "289913",
+        "name": "Small Appliances",
+        "children": []
+      },
+      {
+        "id": "510136",
+        "name": "Storage & Organization",
+        "children": []
+      },
+      {
+        "id": "13299291",
+        "name": "Wine Accessories",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "musical-instruments",
+    "name": "Musical Instruments",
+    "children": [
+      {
+        "id": "8882494011",
+        "name": "Amplifiers & Effects",
+        "children": []
+      },
+      {
+        "id": "405758011",
+        "name": "Band & Orchestra",
+        "children": []
+      },
+      {
+        "id": "11971311",
+        "name": "Bass Guitars",
+        "children": []
+      },
+      {
+        "id": "11973881",
+        "name": "DJ, Electronic Music & Karaoke",
+        "children": []
+      },
+      {
+        "id": "11970241",
+        "name": "Drums & Percussion",
+        "children": []
+      },
+      {
+        "id": "11971241",
+        "name": "Guitars",
+        "children": []
+      },
+      {
+        "id": "11965871",
+        "name": "Instrument Accessories",
+        "children": []
+      },
+      {
+        "id": "11969981",
+        "name": "Keyboards",
+        "children": []
+      },
+      {
+        "id": "405757011",
+        "name": "Live Sound & Stage",
+        "children": []
+      },
+      {
+        "id": "11973111",
+        "name": "Recording Equipment",
+        "children": []
+      },
+      {
+        "id": "14733114011",
+        "name": "Ukuleles, Mandolins & Banjos",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "lawn-garden",
+    "name": "Patio, Lawn & Garden",
+    "children": [
+      {
+        "id": "553632",
+        "name": "Backyard Birding & Wildlife",
+        "children": []
+      },
+      {
+        "id": "4619352011",
+        "name": "Farm & Ranch",
+        "children": []
+      },
+      {
+        "id": "3610851",
+        "name": "Gardening",
+        "children": []
+      },
+      {
+        "id": "552808",
+        "name": "Generators & Portable Power",
+        "children": []
+      },
+      {
+        "id": "553760",
+        "name": "Grills & Outdoor Cooking",
+        "children": []
+      },
+      {
+        "id": "551242",
+        "name": "Mowers & Outdoor Power Tools",
+        "children": []
+      },
+      {
+        "id": "553788",
+        "name": "Outdoor Décor",
+        "children": []
+      },
+      {
+        "id": "13638732011",
+        "name": "Outdoor Heating",
+        "children": []
+      },
+      {
+        "id": "13400641",
+        "name": "Outdoor Storage",
+        "children": []
+      },
+      {
+        "id": "553824",
+        "name": "Patio Furniture & Accessories",
+        "children": []
+      },
+      {
+        "id": "553844",
+        "name": "Pest Control",
+        "children": []
+      },
+      {
+        "id": "1272941011",
+        "name": "Pools, Hot Tubs & Supplies",
+        "children": []
+      },
+      {
+        "id": "3043471",
+        "name": "Snow Removal",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "pet-supplies",
+    "name": "Pet Supplies",
+    "children": [
+      {
+        "id": "2975221011",
+        "name": "Birds",
+        "children": []
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "children": []
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "children": []
+      },
+      {
+        "id": "2975446011",
+        "name": "Fish & Aquatic Pets",
+        "children": []
+      },
+      {
+        "id": "2975481011",
+        "name": "Horses",
+        "children": []
+      },
+      {
+        "id": "2975504011",
+        "name": "Reptiles & Amphibians",
+        "children": []
+      },
+      {
+        "id": "2975520011",
+        "name": "Small Animals",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "sporting-goods",
+    "name": "Sports & Outdoors",
+    "children": [
+      {
+        "id": "3394801",
+        "name": "Accessories",
+        "children": []
+      },
+      {
+        "id": "3407731",
+        "name": "Exercise & Fitness",
+        "children": []
+      },
+      {
+        "id": "3386071",
+        "name": "Fan Shop",
+        "children": []
+      },
+      {
+        "id": "706813011",
+        "name": "Hunting & Fishing",
+        "children": []
+      },
+      {
+        "id": "2358921011",
+        "name": "Memorabilia Display & Storage",
+        "children": []
+      },
+      {
+        "id": "706814011",
+        "name": "Outdoor Recreation",
+        "children": []
+      },
+      {
+        "id": "10971181011",
+        "name": "Sports",
+        "children": []
+      },
+      {
+        "id": "3422351",
+        "name": "Sports Medicine",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "toys-and-games",
+    "name": "Toys & Games",
+    "children": [
+      {
+        "id": "165993011",
+        "name": "Action & Toy Figures",
+        "children": []
+      },
+      {
+        "id": "166057011",
+        "name": "Arts & Crafts",
+        "children": []
+      },
+      {
+        "id": "196601011",
+        "name": "Baby & Toddler Toys",
+        "children": []
+      },
+      {
+        "id": "256994011",
+        "name": "Bikes, Skates & Ride-Ons",
+        "children": []
+      },
+      {
+        "id": "166092011",
+        "name": "Building & Construction Toys",
+        "children": []
+      },
+      {
+        "id": "166242011",
+        "name": "Collectible Card Games",
+        "children": []
+      },
+      {
+        "id": "166118011",
+        "name": "Dolls & Accessories",
+        "children": []
+      },
+      {
+        "id": "166316011",
+        "name": "Dressing Up & Costumes",
+        "children": []
+      },
+      {
+        "id": "166164011",
+        "name": "Electronics for Kids",
+        "children": []
+      },
+      {
+        "id": "166220011",
+        "name": "Games",
+        "children": []
+      },
+      {
+        "id": "166269011",
+        "name": "Learning & Education",
+        "children": []
+      },
+      {
+        "id": "166326011",
+        "name": "Musical Instruments",
+        "children": []
+      },
+      {
+        "id": "166027011",
+        "name": "Novelty & Gag Toys",
+        "children": []
+      },
+      {
+        "id": "1266203011",
+        "name": "Party Supplies",
+        "children": []
+      },
+      {
+        "id": "23539911011",
+        "name": "Play Vehicles",
+        "children": []
+      },
+      {
+        "id": "166333011",
+        "name": "Puppets & Puppet Theaters",
+        "children": []
+      },
+      {
+        "id": "166359011",
+        "name": "Puzzles",
+        "children": []
+      },
+      {
+        "id": "6925830011",
+        "name": "Remote- & App-Controlled Toys",
+        "children": []
+      },
+      {
+        "id": "166420011",
+        "name": "Sports & Outdoor Play",
+        "children": []
+      },
+      {
+        "id": "166461011",
+        "name": "Stuffed Animals & Toys",
+        "children": []
+      }
+    ]
+  }
+]
