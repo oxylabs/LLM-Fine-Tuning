@@ -1,7 +1,7 @@
 # LLM Fine-Tuning
 [![Oxylabs LLM fine-tuning](https://github.com/oxylabs/LLM-Fine-Tuning/blob/main/LLM%20Fine-Tuning%20GitHub%20repository%20banner.png)](https://oxylabs.io/products/scraper-api/webs?utm_content=oxylabs-web-scraper-api&groupid=877)
 
-[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs) 
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ayF-XQU-6GU) 
 
 
 # LLM Fine-Tuning: Amazon Product Title Generator
